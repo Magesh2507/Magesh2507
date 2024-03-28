@@ -4,7 +4,7 @@
 
 # 💫 About Me:
   <h2>Hey 👋, I'm <a href="https://magesh-portfolio.netlify.app/">Magesh</a></h2>
-🔭 I'm a Front End Developer. I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on Front End and FSD related projects, building websites.<br>📫 How to reach me v.magesh.pkv@gmail.com<br>💬 Ask me about all Front End Technologies<br>⚡ Fun fact Fun facts are not always fun.
+🔭 I'm a Front End Developer. I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on Front End and FSD related projects, building websites.<br>📫 Reach me v.magesh.pkv@gmail.com<br>💬 Ask me about all Front End Technologies<br>⚡ Fun fact Fun facts are not always fun.
 
 
 ## 🌐 Socials:
@@ -41,13 +41,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" />
 <br><br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="60" height="60" />
-
 <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="60" height="60" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="60" height="60" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="60" height="60" />
 </p>
 
 # 💻 Front End:
@@ -73,9 +70,6 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" />
 
-
-<img src="https://th.bing.com/th/id/OIP.B1zKyI6jiSPfwhzVH0EdwgHaDC?w=309&h=143&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="chartjs" width="70" height="50" />
-
 </p>
 
 # 💻 Back End:
@@ -85,9 +79,6 @@
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="50" height="50" />
-
-
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="60" height="60" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="60" height="60" />
 
@@ -106,11 +97,6 @@
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="ms office" width="50" height="50" />
-
-
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="60" height="60" />
-
-
 
 </p>
    
